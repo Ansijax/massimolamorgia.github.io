@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: #/ # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -61,7 +61,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: # MLM  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -70,7 +70,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -108,7 +108,7 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor,'blog','_pages/teaching.md','_pages/projects.md']
+exclude: [vendor,'_pages/teaching.md','_pages/projects.md']
 
 # Plug-ins
 plugins:
