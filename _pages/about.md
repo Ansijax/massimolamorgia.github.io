@@ -21,7 +21,7 @@ Hi all!
 
 I'm Massimo La Morgia a Postdoctoral Researcher at the Computer Science Department of Sapienza University of Rome, Italy.
 I'm part of the SystemsLab a research group lead by prof. Alessandro Mei.
-My research interest include security & privacy, blockchain and cryptocurrencies, applied machine learning, computer science and human behaviour.
+My research interests include security & privacy, blockchain and cryptocurrencies, applied machine learning, computer science and human behaviour.
 If you are interested in my work and/or possible collaborations get in touch with me via email.
 
 {% comment %}
