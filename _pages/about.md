@@ -2,11 +2,15 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Systems Lab</a> &#x25C8; <a href="https://www.di.uniroma1.it/en" target="_blank">Computer Science Department</a> &#x25C8; <a href="https://www.uniroma1.it/" target="_blank"> Sapienza University</a>.
+subtitle: <a href="#">Systems Lab</a> &#x25C8; <a href="https://www.di.uniroma1.it/en" target="_blank">Computer Science Department</a> &#x25C8; <a href="https://www.uniroma1.it/" target="_blank"> Sapienza University</a>.
+
+
+#description: <a href="#">Systems Lab</a> &#x25C8; <a href="https://www.di.uniroma1.it/en" target="_blank">Computer Science Department</a> &#x25C8; <a href="https://www.uniroma1.it/" target="_blank"> Sapienza University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>1st floor, Building F</p>
     <p>Viale Regina Elena 295</p>
