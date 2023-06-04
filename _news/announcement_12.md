@@ -5,5 +5,4 @@ inline: true
 show: true
 ---
 
-Our paper <strong>It’s a Trap! Detection and Analysis of Fake and
-Clone Channels on Telegram</strong> has been accepted at the <em>IEE International Conference on Web Services<em>, <strong> IEEE ICWS '23 <strong> :sparkles: :sparkles:
+Our paper <a href="./assets/pdf/Telegram_ICWS.pdf" target="blank">It’s a Trap! Detection and Analysis of Fake on Telegram</a> has been accepted at the <em>IEEE International Conference on Web Services<em>, <strong> IEEE ICWS '23 <strong> :sparkles: :sparkles:
