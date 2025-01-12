@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UFIP Course
-description: Blockchain, cryptocurrencies and cryptofrauds @ Course at Federal University of Piauí
+description: Blockchain, cryptocurrencies and cryptofrauds @ Federal University of Piauí
 img: assets/img/bitcoin_br.jpeg
 importance: 1
 category: teaching
