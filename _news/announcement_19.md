@@ -5,5 +5,5 @@ inline: true
 show: true
 ---
 
-Our paper <a href="" target="blank">
+Our paper <a href="./assets/pdf/TGDataset_KDD_25.pdf" target="blank">
 TGDataset: Collecting and Exploring the Largest Telegram Channels Dataset</a> has been accepted at <strong>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)<strong> :sparkles: :sparkles:
