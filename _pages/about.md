@@ -14,7 +14,7 @@ profile:
   address: >
     <p>Room G26, 2nd floor, Building G</p>
     <p>Viale Regina Elena 295</p>
-    <p>00165 Rome, Italy </p>
+    <p>00165 Rome, Italy. </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
