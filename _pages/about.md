@@ -12,7 +12,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1st floor, Building F</p>
+    <p>Room G26, 2nd floor, Building G</p>
     <p>Viale Regina Elena 295</p>
     <p>00165 Rome, Italy </p>
 
