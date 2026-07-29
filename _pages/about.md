@@ -3,22 +3,29 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href="#">Systems Lab</a> &#x25C8; <a href="https://www.di.uniroma1.it/en" target="_blank">Computer Science Department</a> &#x25C8; <a href="https://www.uniroma1.it/" target="_blank"> Sapienza University</a>.
-
-
 #description: <a href="#">Systems Lab</a> &#x25C8; <a href="https://www.di.uniroma1.it/en" target="_blank">Computer Science Department</a> &#x25C8; <a href="https://www.uniroma1.it/" target="_blank"> Sapienza University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Room G26, 2nd floor, Building G</p>
     <p>Viale Regina Elena 295</p>
     <p>00165 Rome, Italy </p>
 
-news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 6 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi all!
