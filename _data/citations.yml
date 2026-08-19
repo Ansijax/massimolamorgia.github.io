@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   G-P8k7MAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: Nationality and Geolocation-Based Profiling in the Dark (Web)
     year: '2019'
   G-P8k7MAAAAJ:4DMP91E08xMC:
-    citations: 37
+    citations: 38
     title: 'Tgdataset: Collecting and exploring the largest telegram channels dataset'
     year: '2025'
   G-P8k7MAAAAJ:4TOpqqG69KYC:
@@ -54,7 +54,7 @@ papers:
     title: 'Designing for the Unlikely: Mitigation Against Rare, High-Impact Threats'
     year: '2025'
   G-P8k7MAAAAJ:ULOm3_A8WrAC:
-    citations: 128
+    citations: 130
     title: 'Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain ({{{{{BNB}}}}})'
     year: '2023'
   G-P8k7MAAAAJ:UeHWp8X0CEIC:
